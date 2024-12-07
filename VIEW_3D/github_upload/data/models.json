@@ -1,0 +1,16 @@
+{
+  "models": {
+    "bloc_figura": {
+      "id": "bloc_figura",
+      "name": "Block con figura",
+      "file": "models/3DModel.obj",
+      "description": "Block con figura"
+    },
+    "bloc_fig": {
+      "id": "bloc_fig",
+      "name": "BLOCK CON FIGURA",
+      "file": "models/3DModel.obj",
+      "description": ""
+    }
+  }
+}
